@@ -1,0 +1,47 @@
+body{
+    background: wheat;
+    font-family: Arial sans-serif;
+    text-align: center;
+    margin: 0;
+    color: orange;
+}
+.container{
+    margin: auto;
+    width: 1080px;
+    padding-bottom: 50px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+.image-box{
+    background: white;
+    box-sizing: border-box;
+    width: 230px;
+    height: 230px;
+    border-radius: 110px;
+    margin: auto;
+    margin-top: 20px;
+}
+.content-box{
+    margin: auto;
+    margin-top: 120px;
+    border: 2px white solid;
+}
+.select, .btn, input{
+    color:  orange;
+    background: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 17px;
+    border: 2px solid orange;
+    margin-bottom: 30px;
+}
+.btn{
+    width: 200px;
+}
+.select{
+    width: 350px;
+}
